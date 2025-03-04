@@ -14,7 +14,7 @@
           </div>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Czerny40&layout=compact&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff"
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCzerny40%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Czerny40&layout=compact&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff"
           /> </div> 
     </div>
     
